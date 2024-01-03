@@ -1,2 +1,0 @@
-# exam-project
-exam repo
